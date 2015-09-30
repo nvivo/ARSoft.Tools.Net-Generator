@@ -1,0 +1,10 @@
+http://arsofttoolsnet.codeplex.com/releases/view/90258
+
+Bugfix release:
+http://arsofttoolsnet.codeplex.com/workitem/12
+http://arsofttoolsnet.codeplex.com/workitem/13
+http://arsofttoolsnet.codeplex.com/workitem/16
+http://arsofttoolsnet.codeplex.com/workitem/17
+http://arsofttoolsnet.codeplex.com/workitem/18
+http://arsofttoolsnet.codeplex.com/workitem/19
+http://arsofttoolsnet.codeplex.com/discussions/360706

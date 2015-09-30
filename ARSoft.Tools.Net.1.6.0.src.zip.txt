@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/69561
+
+- Refactoring of SPF validation code
+- Support for SenderID validation
+- Bugfix: http://arsofttoolsnet.codeplex.com/workitem/10

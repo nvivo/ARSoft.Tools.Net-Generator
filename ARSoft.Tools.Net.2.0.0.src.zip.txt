@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/614750
+
+Update to .Net 4.5
+Support for TAP in DNS Client, SPF and SenderID Validator
+Rewrite of DNS server using TAP

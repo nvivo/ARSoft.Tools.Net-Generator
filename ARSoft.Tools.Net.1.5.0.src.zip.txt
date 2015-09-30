@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/53195
+
+- Many new Record types
+- First steps to DNSSEC: Parsing off all records is now possible
+- Encoding and Decoding of byte data as defined in RFC4648 (Base16, Base32 and Base64)

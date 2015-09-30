@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/95239
+
+Bugfixes
+
+TCP queries to DnsServer did not work in Mono in some cases (http://arsofttoolsnet.codeplex.com/discussions/394854)

@@ -1,0 +1,4 @@
+http://arsofttoolsnet.codeplex.com/releases/view/616238
+
+CHANGED: Enforce SPF DNS limits as required in RFC 7208
+(This change fixes Stackoverflow Exceptions on SPF records with endless loops)

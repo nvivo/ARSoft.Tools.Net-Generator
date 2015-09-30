@@ -1,0 +1,9 @@
+http://arsofttoolsnet.codeplex.com/releases/view/97243
+
+Bugfixes
+
+SPF Validator did not reset state for new validations (http://arsofttoolsnet.codeplex.com/workitem/21)
+
+Changes
+
+Added missing support for multiple AXFR answer messages (http://arsofttoolsnet.codeplex.com/discussions/398617 & http://arsofttoolsnet.codeplex.com/workitem/20)

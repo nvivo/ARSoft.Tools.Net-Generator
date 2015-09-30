@@ -1,0 +1,8 @@
+http://arsofttoolsnet.codeplex.com/releases/view/617687
+
+ADDED: Support for different DNS resolvers instead of only a DNS client (see samples)
+ADDED: Support for DNSSEC secured resolving (see samples)
+CHANGED: Domain names have now their own class instead of using strings
+ADDED: Several new record types
+ADDED: Support for IDN Domains
+ADDED: DANE stream (see samples)

@@ -1,0 +1,4 @@
+http://arsofttoolsnet.codeplex.com/releases/view/53194
+
+- Added support for signing messages with TSig
+- Dynamic DNS updates can now be done really easy

@@ -1,0 +1,4 @@
+http://arsofttoolsnet.codeplex.com/releases/view/69747
+
+Bugfix: http://arsofttoolsnet.codeplex.com/workitem/6
+Bugfix: http://arsofttoolsnet.codeplex.com/workitem/8

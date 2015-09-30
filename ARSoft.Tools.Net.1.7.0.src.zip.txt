@@ -1,0 +1,24 @@
+http://arsofttoolsnet.codeplex.com/releases/view/93268
+
+New Features:
+
+Strong name for binary release
+LLMNR client
+One-shot Multicast DNS client
+Some new IPAddress extensions
+Response validation as described in draft-vixie-dnsext-dns0x20-00
+Added support for Owner EDNS option (draft-cheshire-edns0-owner-option)
+Added support for LLQ EDNS option (draft-sekar-dns-llq)
+Added support for Update Lease EDNS option (draft-sekar-dns-ul)
+
+Changes:
+
+Updated to latest IANA parameters
+Adapted RFC6563 - Moving A6 to Historic Status
+Use IPv6 addresses prior to IPv4 addresses on lookup
+
+Bugfixes:
+
+http://arsofttoolsnet.codeplex.com/workitem/14
+Avoid problems with CNAME records in answer section of dns-message in spf/senderid validation
+Redirect or include of same domain will now return PermError instead of StackOverflowException

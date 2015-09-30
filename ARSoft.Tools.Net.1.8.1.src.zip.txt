@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/123147
+
+Changes
+
+Avoid using deprecated site local dns servers in default dns client

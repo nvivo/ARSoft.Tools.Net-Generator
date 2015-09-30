@@ -1,0 +1,13 @@
+http://arsofttoolsnet.codeplex.com/releases/view/121145
+
+Bugfixes
+
+Avoid NullRef Exception (https://arsofttoolsnet.codeplex.com/workitem/23)
+AXFR Returning only SOA (https://arsofttoolsnet.codeplex.com/workitem/25)
+TCP Listeners count decrements on receive but not increments back on transmit (https://arsofttoolsnet.codeplex.com/workitem/27)
+A misprint in DnsUpdateMessage (https://arsofttoolsnet.codeplex.com/workitem/28)
+
+Changes
+
+Added several new DNS records
+Added several new EDNS options

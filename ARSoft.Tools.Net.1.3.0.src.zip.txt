@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/42767
+
+Added support for creating own dns server implementations.
+Added full IPv6 support to dns client
+Some performance optimizations to dns client

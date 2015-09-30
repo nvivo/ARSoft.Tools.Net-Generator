@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/616468
+
+Latest release for .Net 3.5; for .Net 4.5 please use 2.1.4 or higher.
+
+BUGFIX: Use class IN for DnsUpdateMessage
