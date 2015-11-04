@@ -1,0 +1,6 @@
+http://arsofttoolsnet.codeplex.com/releases/view/618209
+
+Bugfix release:
+BUGFIX: Fixed some issue on parsing DomainName edge cases
+BUGFIX: Avoid NullRef in DnsServer
+BUGFIX: Use IPv6 in DnsClientBase only if available
