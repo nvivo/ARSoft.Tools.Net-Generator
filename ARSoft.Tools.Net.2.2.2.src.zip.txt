@@ -1,0 +1,3 @@
+http://arsofttoolsnet.codeplex.com/releases/view/618490
+
+BUGFIX: SPF Validator tried to parse IP addresses as DomainName, which fails on IPv6 with an exception (Issue 43)
