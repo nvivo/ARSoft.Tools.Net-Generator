@@ -1,0 +1,7 @@
+http://arsofttoolsnet.codeplex.com/releases/view/624304
+
+RELEASE NOTES
+
+BUGFIX: Avoid NullRef in DnsServer (workitem 48)
+CHANGED: Updated to BouncyCastle 1.8.1 (workitem 49)
+BUGFIX: Fixed encoding of TSigRecord (workitem 50)
