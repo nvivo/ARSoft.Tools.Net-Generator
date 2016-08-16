@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/625419
+
+RELEASE NOTES
+
+BUGFIX: Use ip6.arpa for creating IPv6 reverse domain name
