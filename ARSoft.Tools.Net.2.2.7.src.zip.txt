@@ -1,0 +1,7 @@
+http://arsofttoolsnet.codeplex.com/releases/view/629478
+
+RELEASE NOTES
+
+Bugfix release:
+BUGFIX: Canonical order for domains names wrongly used record data length for comparing record data
+BUGFIX: Response validation did not correctly compare query section of message with the query section of the response
