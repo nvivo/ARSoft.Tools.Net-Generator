@@ -1,0 +1,5 @@
+http://arsofttoolsnet.codeplex.com/releases/view/630802
+
+RELEASE NOTES
+
+BUGFIX: Use SPF modifier Exists instead of Exist
